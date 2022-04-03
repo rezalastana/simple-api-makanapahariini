@@ -32,7 +32,7 @@ $menu = $menu['results']; //agar yang diambil didalam array menu
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
-            <a class="nav-link " aria-current="page" href="allmenu.php">All Menu</a>
+            <a class="nav-link " aria-current="page" href="index.php">All Menu</a>
             <a class="nav-link " aria-current="page" href="ayam.php">Resep Ayam</a>
             <a class="nav-link " aria-current="page" href="daging.php">Resep Daging</a>
             <a class="nav-link " aria-current="page" href="seafood.php">Resep Seafood</a>
